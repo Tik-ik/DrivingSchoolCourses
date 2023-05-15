@@ -1,0 +1,12 @@
+body { font-family: Arial, Sans-serif; }
+
+h1 { font-size: 24px; font-weight: bold; }
+h2 { font-size: 18px; font-weight: bold; border-top: 1px solid #ccc; padding-top: 15px; margin-bottom: 25px; }
+h3 { font-size: 16px; font-weight: bold; }
+p { margin: 10px 0 10px 0; }
+ul li { margin: 0 0 0 25px; list-style-type: disc; }
+
+#container { padding: 10px; }
+#small-container { width:640px; height: 380px; border: 1px solid #000; }
+
+.ui-widget-overlay { background: #666666 url(../images/08_diagonals_thick.png) 50% 50% repeat; opacity: .50;filter:Alpha(Opacity=50); }
